@@ -1,18 +1,14 @@
 ---
-title: はじめてのGitHub Copilot Free
+title: article-githubcopilot
 tags:
-  - AI
-  - githubcopilot
-  - AIコーディングエージェント
+  - ""
 private: false
-updated_at: '2025-06-04T18:32:15+09:00'
-id: 6c5c93e565380bc47ee6
+updated_at: ""
+id: null
 organization_url_name: null
 slide: false
 ignorePublish: false
 ---
-
-# new article body
 
 # はじめに
 
