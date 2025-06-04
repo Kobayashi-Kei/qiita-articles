@@ -1,7 +1,9 @@
 ---
 title: article-githubcopilot
 tags:
-  - ""
+  - AI
+  - githubcopilot
+  - AIコーディングエージェント
 private: false
 updated_at: ""
 id: null
