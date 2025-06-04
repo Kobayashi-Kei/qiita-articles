@@ -3,7 +3,7 @@ title: はじめてのGitHub Copilot Free
 tags:
   - "AI"
   - "AIコーディングエージェント"
-  - "Github Copilot"
+  - "GithubCopilot"
 
 private: true
 updated_at: ""
